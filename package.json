@@ -1,0 +1,8 @@
+{
+  "name": "hariharan-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8000 --bind 0.0.0.0"
+  }
+}
